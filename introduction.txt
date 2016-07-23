@@ -1,0 +1,5 @@
+Sudoku Solution Validator consists of designing a multithreaded application that determines whether the solution to a Sudoku puzzle is valid.
+steps:-
+1:-A thread to check that each column contains the digits 1 through 9.
+2:-A thread to check that each row contains the digits 1 through 9.
+3:-Nine threads to check that each of the 3*3 subgrids contains the digits 1 through 9.
